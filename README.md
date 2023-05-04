@@ -134,6 +134,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
+- [FirebaseLogin](https://github.com/igorjacauna/tauri-firebase-login) - Minimal app with Firebase login and authentication.
 
 ### Closed Source
 
